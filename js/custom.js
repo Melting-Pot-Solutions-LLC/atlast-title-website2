@@ -11,7 +11,7 @@ $(document).ready(function(){
 		Testimonial Crousel
 		============================*/ 	
 		  $(".all-testimonial").owlCarousel({
-			autoplay: true, 
+			autoplay: true,
 			pagination:false,
 			nav:false, 
 			dots:true, 
@@ -38,9 +38,9 @@ $(document).ready(function(){
 		$(".all-slide").owlCarousel({
             items: 1,
             nav: false,
-			navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+			//navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
             dots: true,
-            autoplay: true,
+            autoplay: false,
             loop: true,
    			animateOut: 'slideOutDown',
    			animateIn: 'flipInX',
