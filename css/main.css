@@ -268,6 +268,7 @@ box-shadow: inset 0px 5px 0px 0px #292929;
 	}
 }
 
+
 .main-menu >ul>li>a{
 display: block;
 font-size: 16px;
@@ -404,7 +405,6 @@ visibility: hidden;z-index:2;transform:scale(0)
 .hd-style1 .hd-rgt a {
 	display: inline-block;
 	color: #292929;
-	text-transform: capitalize;
 	font-weight: 600;
 }
 .hd-style1 .main-menu ul li::after {
@@ -2559,7 +2559,7 @@ overflow:hidden;
 	margin-bottom: 40px;
 }
 .faq-sec {
-	padding-right: 50px;
+	padding-right: 3px;
 }
 .faq-single {
 	margin-bottom: 30px;
