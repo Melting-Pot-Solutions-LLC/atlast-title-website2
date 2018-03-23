@@ -1857,6 +1857,7 @@ margin: 0px 5px;
 .client-sec .owl-controls {
   display: none;
 }
+/*
 .all-testimonial.owl-theme .owl-dots .owl-dot {
 	border: 2px solid #fff;
 	height: 20px;
@@ -1865,6 +1866,7 @@ margin: 0px 5px;
 	display: inline-block;
 	transition: all 0.4s ease-in-out 0s;
 }
+*/
 
 .all-testimonial.owl-carousel.owl-theme .owl-dot.active {
 border-color: #fab909;
@@ -1878,7 +1880,7 @@ transition: all 0.4s ease-in-out 0s;
 .testimonial2-sec .testimonial-text .sec-title h1,
 .testimonial2-sec .testimonial-text,
 .testimonial2-sec .client-info span{color:#292929}
-.testimonial2-sec .all-testimonial.owl-theme .owl-dots .owl-dot{border-color:#292929}
+/*.testimonial2-sec .all-testimonial.owl-theme .owl-dots .owl-dot{border-color:#292929}
 .testimonial2-sec .all-testimonial.owl-theme .owl-dots .owl-dot.active{border-color:#fab909}
 
 /*
